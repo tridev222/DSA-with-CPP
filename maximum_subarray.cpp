@@ -21,7 +21,7 @@ int maxProduct(vector<int>& nums) {
 }
 
 int main() {
-    vector<int> nums = {2, 3, -2, 4}; // Example input
+    vector<int> nums = {2, 3, -2, 4}; 
     cout << "Maximum product subarray: " << maxProduct(nums) << endl;
     return 0;
 }
